@@ -6,8 +6,8 @@ menu:
 
 # SubNav
 subnav:
-  github: "github.com/matrixbirds"
-  weibo: "weibo.com"
+  github: "https://github.com/matrixbirds"
+  weibo: "http://weibo.com/angry0bits"
   rss: "#"
   zhihu: "#"
   #douban: "#"
@@ -49,9 +49,10 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
+    Shiningray: "http://shiningray.cn/"
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 资深段子手程序员, 爱一个叫做开源的女人.
