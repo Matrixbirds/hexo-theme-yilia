@@ -50,9 +50,10 @@ tagcloud: true
 #开启——
 friends:
     Shiningray: "http://shiningray.cn/"
-    李奇: "http://liqi.wtf/"
+    Zhihu_LiQi: "http://liqi.wtf/"
     Lellansin: "http://www.lellansin.com"
     Kimmg: "http://kimmg.com"
+    花姐: "http://seiran.mist.so/"
 
 #是否开启“关于我”。
 #不开启——
