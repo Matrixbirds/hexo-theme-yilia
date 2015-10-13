@@ -49,12 +49,13 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-    Shiningray: "http://shiningray.cn/"
-    LiQi: "http://liqi.wtf/"
+    Shiningray: "http://shiningray.cn"
+    LiQi: "http://liqi.wtf"
     Lellansin: "http://www.lellansin.com"
     Kimmg: "http://kimmg.com"
-    花姐: "http://seiran.mist.so/"
-    gavin: "http://gavinmiller.io/"
+    花姐: "http://seiran.mist.so"
+    gavin: "http://gavinmiller.io"
+    brakeman: "http://brakemanscanner.org"
 
 #是否开启“关于我”。
 #不开启——
