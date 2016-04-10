@@ -8,8 +8,7 @@ menu:
 subnav:
   github: "https://github.com/matrixbirds"
   weibo: "http://weibo.com/angry0bits"
-  rss: "#"
-  zhihu: "#"
+  rss: "/atom.xml"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
