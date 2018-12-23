@@ -7,7 +7,6 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/matrixbirds"
-  weibo: "http://weibo.com/angry0bits"
   rss: "/atom.xml"
   #douban: "#"
   #segmentfault: "#"
@@ -94,6 +93,7 @@ friends:
     李杨杰: "https://yangjie.li/"
     空格君: "http://blog.imspace.cn/"
     黑洞: "http://bugs.cc"
+    Doctor: "https://www.cmder.info/"
 
 #是否开启“关于我”。
 #不开启——
